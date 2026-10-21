@@ -1,0 +1,6 @@
+Property: 31 Mill Lane, Bradford, BD5 0HN
+Drill point 1 (front, ground floor): cavity 75mm, no insulation
+Drill point 2 (side, first floor): cavity 75mm, no insulation
+Drill point 3 (rear, ground floor): cavity 70mm, debris present,
+unable to confirm insulation
+Overall: Cavity appears unfilled. CWI not present.

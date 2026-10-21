@@ -1,0 +1,7 @@
+Property: 14 Elm Road, Leeds, LS6 2AB
+Inspection date: 03/06/2025
+Wall type: Masonry cavity
+Cavity width: 50mm
+Insulation present: Yes
+Insulation type: Blown mineral fibre
+Fill: Full
